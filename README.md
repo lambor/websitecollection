@@ -2,7 +2,7 @@
 
 # Table of Content
 
-1. [PL-doc](https://github.com/lambor/websitecollection#pL-doc)
+1. [PL-doc](https://github.com/lambor/websitecollection#pl-doc)
 2. [Android](https://github.com/lambor/websitecollection#android)
 3. [Github](https://github.com/lambor/websitecollection#github)
 
