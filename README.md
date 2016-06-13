@@ -4,7 +4,8 @@
 
 1. [PL-doc](https://github.com/lambor/websitecollection#pl-doc)
 2. [Android](https://github.com/lambor/websitecollection#android)
-3. [Github](https://github.com/lambor/websitecollection#github)
+3. [Android-Blog](https://github.com/lambor/websitecollection#android-blog)
+4. [Github](https://github.com/lambor/websitecollection#github)
 
 
 ### PL-doc
@@ -20,6 +21,11 @@
 [android design icon](https://design.google.com/icons/)
 [AOSP](https://source.android.com/)
 [jcent](https://bintray.com/lambor)
+
+
+### Android Blog
+
+[Saúl Molinero](http://saulmm.github.io/avoding-android-cold-starts)
 
 
 ### Github
