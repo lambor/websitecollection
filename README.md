@@ -29,6 +29,8 @@
 
 [jcent](https://bintray.com/lambor)
 
+[清华大学 TUNA 镜像源](https://mirrors.tuna.tsinghua.edu.cn/help/AOSP/)
+
 
 ### Android Blog
 
