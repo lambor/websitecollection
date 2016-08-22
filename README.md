@@ -6,7 +6,7 @@
 2. [Android](https://github.com/lambor/websitecollection#android)
 3. [Android-Blog](https://github.com/lambor/websitecollection#android-blog)
 4. [Github](https://github.com/lambor/websitecollection#github)
-
+5. [Search](https://github.com/lambor/websitecollection#search)
 
 ### PL-doc
 
@@ -38,3 +38,7 @@
 
 
 ### Github
+
+### Search
+
+[快搜·虫部落](http://so.chongbuluo.com/)
